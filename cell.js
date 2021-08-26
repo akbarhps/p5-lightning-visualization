@@ -4,7 +4,7 @@
  * https://www.github.com/akbarhps
  */
 
-function Cell(y, x, obstacleChance = 0.37) {
+function Cell(y, x, obstacleChance = 0.36) {
     this.y = y;
     this.x = x;
     this.isVisited = false;
